@@ -1,6 +1,6 @@
 # crystals-collector
 
-Deployed Link: [unit-4-game](https://vwhope.github.io/crystals-collector/)
+Deployed Link: [crystals-collector game](https://vwhope.github.io/crystals-collector/)
 ### Crystals Collector Game - using jQuery
 
 **Problems to solve**
